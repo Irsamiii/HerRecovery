@@ -25,7 +25,7 @@
 ## ⚙️ Setup
 
 ```bash
-git clone https://github.com/your-username/herrecovery.git
+git clone https://github.com/Irsamiii/herrecovery.git
 cd herrecovery/client
 npm install
 npm start
